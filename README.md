@@ -28,6 +28,8 @@ Counting Elements :( (Premium)
 
 [Diameter of Binary Tree](https://github.com/abhisheksurve45/leetcode-april-2020/blob/master/WEEK2/DiameterBinaryTree.java)
 
+[Last Stone Weight](https://github.com/abhisheksurve45/leetcode-april-2020/blob/master/WEEK2/LastStoneWeight.java)
+
 
 ## WEEK 3
 

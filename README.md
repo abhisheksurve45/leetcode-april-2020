@@ -30,6 +30,8 @@ Counting Elements :( (Premium)
 
 [Last Stone Weight](https://github.com/abhisheksurve45/leetcode-april-2020/blob/master/WEEK2/LastStoneWeight.java)
 
+[Contiguous Array](https://github.com/abhisheksurve45/leetcode-april-2020/blob/master/WEEK2/ContiguousArray.java)
+
 
 ## WEEK 3
 

@@ -24,6 +24,8 @@ Counting Elements :( (Premium)
 
 [Backspace String Compare](https://github.com/abhisheksurve45/leetcode-april-2020/blob/master/WEEK2/BackspaceStringCompare.java)
 
+[Min Stack](https://github.com/abhisheksurve45/leetcode-april-2020/blob/master/WEEK2/MinStack.java)
+
 
 ## WEEK 3
 

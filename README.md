@@ -8,6 +8,7 @@ Link : [Leetcode](https://leetcode.com/explore/challenge/card/30-day-leetcoding-
 
 [Happy Number](https://github.com/abhisheksurve45/leetcode-april-2020/blob/master/WEEK1/HappyNumber.java)
 
+[Maximum Subarray](https://github.com/abhisheksurve45/leetcode-april-2020/blob/master/WEEK1/MaximumSubarray.java)
 
 ## WEEK 2
 

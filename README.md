@@ -20,7 +20,7 @@ Counting Elements :( (Premium)
 
 ## WEEK 2
 
-[Coming up!](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/)
+[Middle of the Linked List](https://github.com/abhisheksurve45/leetcode-april-2020/blob/master/WEEK2/MiddleofLinkedList.java)
 
 
 ## WEEK 3

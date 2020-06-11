@@ -10,6 +10,8 @@ Link : [Leetcode](https://leetcode.com/explore/challenge/card/30-day-leetcoding-
 
 [Maximum Subarray](https://github.com/abhisheksurve45/leetcode-april-2020/blob/master/WEEK1/MaximumSubarray.java)
 
+[Move Zeroes](https://github.com/abhisheksurve45/leetcode-april-2020/blob/master/WEEK1/MoveZeroes.java)
+
 ## WEEK 2
 
 [Coming up!](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/)

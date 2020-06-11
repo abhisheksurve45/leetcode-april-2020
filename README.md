@@ -16,6 +16,8 @@ Link : [Leetcode](https://leetcode.com/explore/challenge/card/30-day-leetcoding-
 
 [Group Anagrams](https://github.com/abhisheksurve45/leetcode-april-2020/blob/master/WEEK1/GroupAnagrams.java)
 
+Counting Elements :( (Premium)
+
 ## WEEK 2
 
 [Coming up!](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/)

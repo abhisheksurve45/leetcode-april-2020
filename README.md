@@ -32,6 +32,8 @@ Counting Elements :( (Premium)
 
 [Contiguous Array](https://github.com/abhisheksurve45/leetcode-april-2020/blob/master/WEEK2/ContiguousArray.java)
 
+Perform String Shifts :( (Premium)
+
 
 ## WEEK 3
 

@@ -22,6 +22,8 @@ Counting Elements :( (Premium)
 
 [Middle of the Linked List](https://github.com/abhisheksurve45/leetcode-april-2020/blob/master/WEEK2/MiddleofLinkedList.java)
 
+[Backspace String Compare](https://github.com/abhisheksurve45/leetcode-april-2020/blob/master/WEEK2/BackspaceStringCompare.java)
+
 
 ## WEEK 3
 

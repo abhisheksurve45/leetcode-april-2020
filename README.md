@@ -4,7 +4,7 @@ Link : [Leetcode](https://leetcode.com/explore/challenge/card/30-day-leetcoding-
 
 ## WEEK 1
 
-[Coming up!](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/)
+[Single Number](https://github.com/abhisheksurve45/leetcode-april-2020/blob/master/WEEK1/SingleNumber.java)
 
 ## WEEK 2
 

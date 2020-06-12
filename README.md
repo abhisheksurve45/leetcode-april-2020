@@ -43,6 +43,8 @@ Perform String Shifts :( (Premium)
 
 [Number of Islands](https://github.com/abhisheksurve45/leetcode-april-2020/blob/master/WEEK3/NumberofIslands.java)
 
+[Minimum Path Sum](https://github.com/abhisheksurve45/leetcode-april-2020/blob/master/WEEK3/MinimumPathSum.java)
+
 ## WEEK 4
 
 [Coming up!](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/)

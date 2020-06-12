@@ -53,7 +53,7 @@ Leftmost Column with At least a One :( (Premium)
 
 ## WEEK 4
 
-[Coming up!](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/)
+[Subarray Sum Equals K](https://github.com/abhisheksurve45/leetcode-april-2020/blob/master/WEEK4/SubarraySumEqualsK.java)
 
 ## WEEK 5
 

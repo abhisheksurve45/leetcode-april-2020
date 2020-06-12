@@ -57,6 +57,8 @@ Leftmost Column with At least a One :( (Premium)
 
 [Bitwise AND of Numbers Range](https://github.com/abhisheksurve45/leetcode-april-2020/blob/master/WEEK4/BitwiseANDofNumbersRange.java)
 
+[LRU Cache](https://github.com/abhisheksurve45/leetcode-april-2020/blob/master/WEEK4/LRUCache.java)
+
 ## WEEK 5
 
 [Coming up!](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/)

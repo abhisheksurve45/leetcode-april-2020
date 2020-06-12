@@ -67,6 +67,8 @@ Leftmost Column with At least a One :( (Premium)
 
 [Maximal Square](https://github.com/abhisheksurve45/leetcode-april-2020/blob/master/WEEK4/MaximalSquare.java)
 
+First Unique Number :( (Premium)
+
 ## WEEK 5
 
 [Coming up!](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/)

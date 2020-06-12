@@ -37,7 +37,7 @@ Perform String Shifts :( (Premium)
 
 ## WEEK 3
 
-[Coming up!](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/)
+[Product of Array Except Self](https://github.com/abhisheksurve45/leetcode-april-2020/blob/master/WEEK3/ProductArrayExceptSelf.java)
 
 ## WEEK 4
 

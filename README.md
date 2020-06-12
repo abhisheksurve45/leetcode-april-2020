@@ -45,6 +45,8 @@ Perform String Shifts :( (Premium)
 
 [Minimum Path Sum](https://github.com/abhisheksurve45/leetcode-april-2020/blob/master/WEEK3/MinimumPathSum.java)
 
+[Search in Rotated Sorted Array](https://github.com/abhisheksurve45/leetcode-april-2020/blob/master/WEEK3/SearchRotatedSortedArray.java)
+
 ## WEEK 4
 
 [Coming up!](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/)

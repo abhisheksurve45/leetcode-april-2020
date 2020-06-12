@@ -39,6 +39,8 @@ Perform String Shifts :( (Premium)
 
 [Product of Array Except Self](https://github.com/abhisheksurve45/leetcode-april-2020/blob/master/WEEK3/ProductArrayExceptSelf.java)
 
+[Valid Parenthesis String](https://github.com/abhisheksurve45/leetcode-april-2020/blob/master/WEEK3/ValidParenthesisString.java)
+
 ## WEEK 4
 
 [Coming up!](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/)

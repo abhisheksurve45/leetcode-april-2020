@@ -1,6 +1,8 @@
 # Solutions for Leetcode April 2020 in `JAVA` / `C++` 
 
-Link : [Leetcode](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/)
+Challenge Link : [Leetcode](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/)
+
+Recommended YOUTUBE channel : [Akshay Goyal](https://www.youtube.com/playlist?list=PLk3HmtBxW9XVPo6vMzSenyMeOow7D7VGV)
 
 ## WEEK 1
 

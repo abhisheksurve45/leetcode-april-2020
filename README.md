@@ -1,4 +1,4 @@
-# Solutions for Leetcode April 2020 in `JAVA` / `C++` 
+# Solutions for Leetcode April 2020 in `JAVA`
 
 Challenge Link : [Leetcode](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/)
 

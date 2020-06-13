@@ -71,4 +71,6 @@ First Unique Number :( (Premium)
 
 ## WEEK 5
 
-[Coming up!](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/)
+[Binary Tree Maximum Path Sum](https://github.com/abhisheksurve45/leetcode-april-2020/blob/master/WEEK5/BinaryTreeMaximumPathSum.java)
+
+Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree :( (Premium)
